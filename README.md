@@ -5,7 +5,7 @@ Implementation of a bio-inspired weights-and-structure-determination (WASD) 3-la
 The purpose of this package is to present applications on assistive Human Activity Recognition (HAR) for physical disabilities as the primary evaluation domain (using UCI HAR dataset retrieved from https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones), alongside financial trend pattern classification (Bank of America and Tesla stock price series) as a secondary cross-domain validation task.
 
 The main article used is the following:
-* R.T. Alqahtani, T.E. Simos, S.D. Mourtas X. Cao, S. Li and V.N. Katsikis, "A Soft-Margin Neutrosophic-Logic Bio-Inspired WASD Neural Network for Human Activity Recognition in Assistive Technologies and Pattern Classification", 2026.
+* R.T. Alqahtani, T.E. Simos, S.D. Mourtas and V.N. Katsikis, "A Soft-Margin Neutrosophic-Logic Bio-Inspired WASD Neural Network for Human Activity Recognition in Assistive Technologies and Pattern Classification", 2026.
 
 # M-files Description
 * Main_WASD.m: the main function executing the pipeline across all benchmark datasets
