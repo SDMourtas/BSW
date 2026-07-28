@@ -5,16 +5,16 @@
 %  Developed in MATLAB R2025a                                       %
 %                                                                   %
 %  Author and programmer: R.T. Alqahtani, T.E. Simos,               %
-%                         S.D. Mourtas, X.Cao, S.Li, V.N. Katsikis  %
+%                         S.D. Mourtas, V.N. Katsikis               %
 %                                                                   %
 %   e-Mail: tsimos.conf@gmail.com                                   %
 %           vaskatsikis@econ.uoa.gr                                 %
 %           spirmour@econ.uoa.gr                                    %
 %                                                                   %
-%   Main paper: R.T.Alqahtani, T.E.Simos, S.D.Mourtas, X.Cao, S.Li, %
-%   V.N.Katsikis, "A Soft-Margin Neutrosophic-Logic Bio-Inspired    % 
-%   WASD Neural Network for Human Activity Recognition in Assistive %
-%   Technologies and Pattern Classification", (submitted)           %
+%   Main paper: R.T.Alqahtani, T.E.Simos, S.D.Mourtas, V.N.Katsikis,%
+%   "A Soft-Margin Neutrosophic-Logic Bio-Inspired WASD Neural      % 
+%   Network for Human Activity Recognition in Assistive Technologies%
+%   and Pattern Classification", (submitted)                        %
 %                                                                   %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
