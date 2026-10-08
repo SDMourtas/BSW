@@ -12,10 +12,10 @@
 %           spirmour@econ.uoa.gr                                    %
 %                                                                   %
 %   Main paper: R.T.Alqahtani, T.E.Simos, S.D.Mourtas, V.N.Katsikis,%
-%   "A Soft-Margin Neutrosophic-Logic Bio-Inspired WASD Neural      % 
-%   Network for Human Activity Recognition in Assistive Technologies%
-%   and Pattern Classification", (submitted)                        %
-%                                                                   %
+%   "A Bio-Inspired WASD Neural Network with Soft-Margin Fuzzy      %
+%   Inference for Human Activity Recognition in Assistive           %
+%   Technologies and Pattern Classification", Mathematics, 14(19),  %
+%   3595 (2026)                                                     %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 clear 
